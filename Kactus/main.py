@@ -34,6 +34,4 @@ while True:
 
    
 
-    
-
-#https://discord.com/api/webhooks/901520993925890068/6V6kdNIzJQ4sBbYHtlCLqdO3xYB_-1B9SryJ3youwCABVqVdzrvQdmbiiT6GLSm2P9YD
+   
